@@ -1,7 +1,6 @@
 # Card Game Simulator
 
-**Card Game Simulator** is a Python-based project that allows you to simulate a fun and interactive 4-player card game. Whether you want to play a quick game of cards with friends or test your luck and strategy, this program has got you covered!
-
+**Card Game Simulator** is a Python-based project that allows you to simulate a fun and interactive 4-player card game. Play a quick game of cards with friends or test your luck and strategy.
 ## Features
 
 - **Create a New Deck**: The project provides a function to create a standard deck of 52 cards, which can be shuffled if desired.
